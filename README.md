@@ -30,6 +30,6 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
     <a href="https://gitlab.com/ArthurLuizS" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" target="_blank" style="width: 40px; height:40px">
     </a> 
   </div>
