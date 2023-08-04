@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Arthur Luiz 👋
 
-- 🔭 Estou atuando como estagiário de desenvolvedor full stack  👨🏻‍💻
+- 🔭 Analista de desenvolvimento na PanOps Solutions  👨🏻‍💻
 - 🌱 Estudando sempre
 - 😄 Pronomes: ele/dele
 
